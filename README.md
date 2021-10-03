@@ -3,3 +3,6 @@ Eclipse. Many space missions support our understanding of the Sun - our nearest 
 
 Authors: Khairullin Ilnar (github: razbiralochka)
          Samadov Mahdi(github: samadov9911) 
+         Aminjanov Shohrukh(github: iamshohrukh)
+         
+Our web-site:https://eclipse-nasa.netlify.app
